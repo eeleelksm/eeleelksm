@@ -1,7 +1,7 @@
 ### Keshia-Lee
 
 :desktop_computer: I'm a ...
-<b> Full Stack Web Development Bootcamp Coding Student </b> and <b> Aspiring Game Programmer </b>
+<b> Full Stack Web Developer </b> and <b> Aspiring Game Programmer </b>
 
 🌱 I’m currently learning ...
 <b>Unity </b>and <b>
