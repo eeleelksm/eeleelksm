@@ -1,7 +1,7 @@
 ### Keshia-Lee
 
 :desktop_computer: I'm a ...
-<b> Full Stack Web Developer </b> and <b> Aspiring Game Programmer </b>
+<b> Frontend Web Developer </b> and <b> Aspiring Game Programmer </b>
 
 🌱 I’m currently learning ...
 <b>Unity </b>and <b>
@@ -12,8 +12,6 @@ React</b>
 
 📫 How to reach me: ...
 <b>keshialeemartin@gmail.com</b>
-
-<br> Website coming soon!
 
 
 <!--
