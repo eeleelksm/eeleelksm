@@ -1,7 +1,7 @@
 ### Keshia-Lee
 
 :desktop_computer: I'm a ...
-<b> Frontend Web Developer </b> and <b> Aspiring Game Programmer </b>
+<b> Front-End Web Developer </b> and <b> Aspiring Game Programmer </b>
 
 🌱 I’m currently learning ...
 <b>Unity </b>and <b>
